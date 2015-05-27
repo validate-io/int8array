@@ -42,6 +42,7 @@ describe( 'validate.io-int8array', function tests() {
 			{},
 			function(){},
 			new Uint8Array( 10 ),
+			new Uint8ClampedArray( 10 ),
 			new Int16Array( 10 ),
 			new Uint16Array( 10 ),
 			new Int32Array( 10 ),
