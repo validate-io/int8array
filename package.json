@@ -26,7 +26,17 @@
     "validate.io",
     "validate",
     "validation",
-    "validator"
+    "validator",
+    "valid",
+    "is",
+    "array",
+    "typed",
+    "typed array",
+    "int8array",
+    "isint8array",
+    "class",
+    "constructor",
+    "instance"
   ],
   "bugs": {
     "url": "https://github.com/validate-io/int8array/issues"
